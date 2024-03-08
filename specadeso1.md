@@ -1,9 +1,7 @@
 # Welcome!
 
-I am a full-time student pursuing my B.S. in Cybersecurity with a profound interest in security operations and related technology. Since my journey began, I've been committed to harnessing the skills needed to become a master in this field.
-I am a dedicated lifelong learner with excellent problem solving and critical thinking skills. I am constantly seeking new ways to strengthen my fundamentals, foundations, and applications
-of my skillset in security-related tools, methodologies, and concepts. As I expand upon my development as a Cybersecurity professional, I am committed to keeping up with
-the everchanging technological landscape and applying my newfound skills to furthering my education, work, and home labs. Please take a look at my LinkedIn profile, it is my pleasure!
+I am a full-time student pursuing my B.S. in Cybersecurity with a profound interest in security operations and related technology.
+I am a dedicated lifelong learner with excellent problem solving/critical thinking skills and constantly seeking new ways to strengthen myskillset in security-related tools, methodologies, and concepts. I am committed to keeping up withthe everchanging technological landscape and applying my newfound skills to furthering my education, work, and home labs. 
 
 <a href="www.linkedin.com/in/santee-pecadeso-912478264"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
