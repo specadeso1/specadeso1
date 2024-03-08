@@ -1,7 +1,7 @@
 # Welcome!
 
-I am a full-time student pursuing my B.S. in Cybersecurity with a profound interest in security operations and related technology.
-I am a dedicated lifelong learner with excellent problem solving/critical thinking skills and constantly seeking new ways to strengthen my skillset in security-related tools, methodologies, and concepts. I am committed to keeping up with the everchanging technological landscape and applying my newfound skills to furthering my education, work, and home labs. 
+Full-time student pursuing my B.S. in Cybersecurity with a profound interest in security operations and related technology.
+I am a dedicated lifelong learner with excellent problem solving/critical thinking skills and constantly seeking new ways to strengthen my skillset in security-related tools, methodologies, and concepts. I am committed applying current and newfound skills to furthering my education, work, and home labs. 
 
 <a href="www.linkedin.com/in/santee-pecadeso-912478264"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -9,9 +9,6 @@ I am a dedicated lifelong learner with excellent problem solving/critical thinki
 
 My current goal is to become OCSP certified and start my penetration testing career as a Jr. Penetration Tester.
 I am also open to being part of a red team in any organization or enterprise, working with other teams to secure infrastructure and assets. I aim to acquire the skills needed to also do freelance bug bounties in my free time.
-My venture into Cybersecurity started with perfecting basic I.T. fundamentals that I continuously build upon. As I continue to build upon my skills in operating systems, network administration, and information
-security, I have decided to put my focus towards offensive security and mastering the tools, methodologies, and mindset required to excel in this area of security operations.
-
 
 ## Skills
 <img src="https://tryhackme-badges.s3.amazonaws.com/sphackz36.png" alt="TryHackMe">
