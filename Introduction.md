@@ -33,8 +33,8 @@ security, I have decided to put my focus towards offensive security and masterin
 ### Vulnerability Assessment
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ### Exploit
@@ -45,6 +45,7 @@ security, I have decided to put my focus towards offensive security and masterin
 ### Administration
 <div>
     <img src="https://img.shields.io/badge/-Kali Linux-000000?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft Windows-1679A7?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ## Certifications
