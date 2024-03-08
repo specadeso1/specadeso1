@@ -45,9 +45,7 @@ I am also open to being part of a red team in any organization or enterprise, wo
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  
-ID: COMP001022316072
+<a href="https://www.credly.com/badges/a119fbef-69c2-413e-b9bf-e56a69a26a0c/linked_in?t=ry449x"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a> 
 </div>
 
 ## Projects
